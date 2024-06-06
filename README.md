@@ -45,6 +45,23 @@ python app.py
 
 The API will be available at `http://localhost:8080/api/news`.
 
+**Contributing**
+
+Contributions to this project are welcome! If you have suggestions for improvements, open an issue or submit a pull request.
+
+**License**
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+**Acknowledgments**
+
+- [Flask](https://flask.palletsprojects.com/): Lightweight WSGI web application framework.
+- [Newspaper3k](https://newspaper.readthedocs.io/en/latest/): Article scraping and parsing library.
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/): HTML/XML parsing library.
+- [React](https://reactjs.org/): JavaScript library for building user interfaces.
+
+For detailed implementation and usage instructions, refer to the project's documentation.
+
 **Note**
 
 This is my first machine learning NLP project, and I'm excited to share it with the community. I'm open to feedback and suggestions on how to improve the API and its functionality.
